@@ -2,9 +2,10 @@
 
 This is Imperial Coursework for Privacy Engineering 
 
-Timeline:
+Meeting Agenda:
 - Meeting online every Thursday morning 10am
 - For anything urgent we can jump in fast call
+
 Timeline:
 - Before next Thursday get the strategy part out
 - Work on test and report after next Thursday 
