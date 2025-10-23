@@ -2,6 +2,17 @@
 
 This is Imperial Coursework for Privacy Engineering 
 
+Timeline:
+- Meeting online every Thursday morning 10am
+- For anything urgent we can jump in fast call
+Timeline:
+- Before next Thursday get the strategy part out
+- Work on test and report after next Thursday 
+
+Task Allocation:
+- Hs & Yukie: Benchmark + Analyze + hashing 
+- Hui Xuan & Xin Yi: Suppression + Generalisation 
+
 Strategy:
 1. Analyse the dataset: identify the quasi and the sensitive information, seeing if there any missing data and checkout the distribution of dataset 
     1. sensitive: disease, on_benefit, malnutrition score 
@@ -29,3 +40,4 @@ Testing (later part):
     - Compare with the original data
 
 Report => do it later 
+
