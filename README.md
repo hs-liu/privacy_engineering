@@ -2,6 +2,39 @@
 
 This is Imperial Coursework for Privacy Engineering
 
+# Friday 31st October - Meeting Notes
+
+Dropping rows:
+
+- compromise utility to achieve privacy (k-anonymity)
+- remove outliers/insensible rows because otherwise very hard to achieve k-anonymity
+- can show benchmark before vs after to discuss tradeoffs
+
+Equivalence classes issue:
+
+- as long as we benchmark and show distribution before vs after
+
+quasi-identifiers:
+
+- keep more specific, e.g. still with income since attacker can still have access to this information
+- can decrease bin sizes to help generalize more (e.g. income only useful for on-benefits fairness so only care about low vs high income, no need more bins)
+
+_k-anonymity & l-diversity code: done by this weekend_
+
+Report:
+
+- follow yasminehemmat report structure
+- can write report based on split work
+- yukie & hs: part 1-3, part 6 evaluation
+- hailey & lyn: part 4-5
+- part 7 can be done by whoever finishes first
+
+report deadline: next Wednesday
+
+- proof read before Friday
+
+=============================================
+
 Meeting Agenda:
 
 - Meeting online every Thursday morning 10am
